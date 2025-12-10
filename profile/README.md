@@ -1,5 +1,3 @@
-![Social Media Cover](https://github.com/user-attachments/assets/5f1b6707-6893-43b6-811e-27e22845b018)
-
 # VASTRELIS
 
 A precision-driven ecosystem focused on security, performance, and long-term maintainability.
@@ -48,3 +46,5 @@ Private access to unreleased modules may be granted to collaborators or partners
 
 More repositories and documentation will appear as components mature.  
 This space will continue to evolve.
+
+![Social Media Cover](https://github.com/user-attachments/assets/5f1b6707-6893-43b6-811e-27e22845b018)
